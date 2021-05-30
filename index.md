@@ -6,5 +6,7 @@ These are projects that I have worked on while at the College of Saint Rose
 
 
 1.[GitHub](https://github.com/atkinsonsstrose/CSC571Week1)
-1.[GitHub](https://github.com/atkinsonsstrose/CSC571Week2)
-1.[GitHub](https://github.com/atkinsonsstrose/CSC571Week6)
+
+2.[GitHub](https://github.com/atkinsonsstrose/CSC571Week2)
+
+3.[GitHub](https://github.com/atkinsonsstrose/CSC571Week6)
