@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>CSC571 Big Data Programming</title>
+
+    # CSC571 Big Data Programming
   </head>
   <body>
     <h1>Big Data Programming</h1>
