@@ -6,6 +6,6 @@
   </head>
   <body>
     <h1>Big Data Programming</h1>
-    ![Image of the class](https://github.com/atkinsonsstrose/atkinsos.github.io/blob/main/class.JPG)
+    ![Image of the class](class.JPG)
   </body>
 </html>
