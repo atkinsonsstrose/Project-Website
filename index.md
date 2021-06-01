@@ -4,7 +4,6 @@
 # List of Projects
 These are projects that I have worked on while at the College of Saint Rose
 
-## Update
 1.[Basic Python](https://github.com/atkinsonsstrose/CSC571Week1)
 
 2.[Python Data Analysis](https://github.com/atkinsonsstrose/CSC571Week2)
